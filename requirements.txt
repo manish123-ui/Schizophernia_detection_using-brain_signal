@@ -1,0 +1,6 @@
+numpy>=2.1.0
+matplotlib>=3.9.0
+scipy>=1.14.0
+torch>=2.5.0
+captum>=0.7.0
+EDFlib-Python>=1.0.8
